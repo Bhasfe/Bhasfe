@@ -7,4 +7,6 @@ I am looking forward to collaborating with you :)
 - 💬 Ask me about anything :)
 - 📫 How to reach me: [barishasdemir@gmail.com](mailto:barishasdemir@gmail.com)
 
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barishasdemir/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhasfe&layout=compact)](https://github.com/bhasfe/github-readme-stats)
