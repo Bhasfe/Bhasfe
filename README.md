@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-This is Barış from Istanbul, Turkey. I'm a **computer engineering student** and **Microsoft Learn Student Ambassador**. I build mobile and web applications. I'm really keen on AI. Currently , I improve myself on Deep Learning, Machine Learning and NLP.
+This is Barış from Istanbul, Turkey. I'm a **computer engineering student** and **Microsoft Learn Student Ambassador**. I build mobile and web applications. I'm really keen on data. Currently , I improve myself on Data Warehousing.
 I am looking forward to collaborating with you :)
 
-- 🔭 I’m currently working on Deep Learning
+- 🔭 I’m currently working on Data Warehousing
 - 💬 Ask me about anything :)
 - 📫 How to reach me: [barishasdemir@gmail.com](mailto:barishasdemir@gmail.com)
 
