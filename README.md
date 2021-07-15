@@ -3,7 +3,7 @@
 This is Barış from Istanbul, Turkey. I'm a **computer engineering student** and **Microsoft Learn Student Ambassador**. I build mobile and web applications. I'm really keen on data. Currently , I improve myself on Data Engineering.
 I am looking forward to collaborating with you :)
 
-- 🔭 I’m currently working on Data Warehousing
+- 🔭 I’m currently working as Data Warehouse Development Engineer
 - 💬 Ask me about anything :)
 - 📫 How to reach me: [barishasdemir@gmail.com](mailto:barishasdemir@gmail.com)
 
