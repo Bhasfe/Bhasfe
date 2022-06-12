@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Barış from Istanbul, Turkey. I have built mobile and web applications in the early years of my career. Currently, I improve myself on Data Engineering.
+This is Barış from Istanbul, Turkey. I have built mobile and web applications in the early years of my career. Currently, I work on Data Engineering.
 I am looking forward to collaborating with you :)
 
 - 🔭 I’m currently working as Data Engineer
