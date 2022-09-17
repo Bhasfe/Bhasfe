@@ -2,7 +2,7 @@
 
 This is Barış from Istanbul, Turkey. I am a Software Engineer who is looking forward to collaborating with you :)
 
-- 🔭 I’m currently working as Data Engineer
+- 🔭 I’m currently working as a Sofware Engineer
 - 💬 Ask me about anything :)
 - 📫 How to reach me: [barishasdemir@gmail.com](mailto:barishasdemir@gmail.com)
 
